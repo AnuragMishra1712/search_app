@@ -1,17 +1,19 @@
 
 
-### 📄 `README.md`
-
-```markdown
 # 🧠 InsightSwitch — Smart Blog & Media Explorer
 
 A full-stack intelligent search and summarization platform for blogs and media.  
 Built with Python, Streamlit, ElasticSearch, Kafka, Redis, and local LLMs via Ollama.
 
 ---
+
 ## 📸 Screenshot
 
 ![InsightSwitch Demo](./assets/screenshot.png)
+
+> Example of keyword search, tag filtering, and LLM-based summarization powered by Mistral via Ollama.
+
+---
 
 ## 🚀 Features
 
@@ -19,12 +21,15 @@ Built with Python, Streamlit, ElasticSearch, Kafka, Redis, and local LLMs via Ol
 - 🧠 **LLM Summarization**: Generate summaries using Mistral / LLaMA 3.2 via Ollama.
 - 📚 **ElasticSearch**: Fast, scalable keyword & tag-based search.
 - 🧾 **Kafka + Redis**: Asynchronous summary request queue and in-memory caching.
-- 🤖 **More Like This** (optional): Placeholder for vector similarity or elastic suggestions.
 - 🔐 **Login + Activity Tracking**: Basic email-password login & SQLite logs user queries.
 - 📸 **Future-proof for Photos**: Toggle for images/media types.
 - 🗂️ **Modular Structure**: Easily extensible and readable codebase.
 
 ---
+
+## 🗂️ Project Structure
+
+
 
 ## 🗂️ Project Structure
 
