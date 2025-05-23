@@ -1,0 +1,20 @@
+# Ignore data files
+*.parquet
+*.csv
+*.json
+*.db
+*.sqlite3
+
+# Ignore models / embeddings
+*.pt
+*.bin
+*.pkl
+
+# Ignore logs
+*.log
+
+# Ignore cache & local storage
+.venv/
+__pycache__/
+.streamlit/
+.DS_Store
