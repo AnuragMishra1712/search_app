@@ -1,6 +1,4 @@
-Here's a detailed `README.md` tailored for your **Search App** project with Redis, Kafka, Streamlit, ElasticSearch, and Ollama-powered LLM summarization.
 
----
 
 ### 📄 `README.md`
 
@@ -11,6 +9,9 @@ A full-stack intelligent search and summarization platform for blogs and media.
 Built with Python, Streamlit, ElasticSearch, Kafka, Redis, and local LLMs via Ollama.
 
 ---
+## 📸 Screenshot
+
+![InsightSwitch Demo](./assets/screenshot.png)
 
 ## 🚀 Features
 
@@ -175,11 +176,4 @@ Query this data for behavior analytics.
 
 ## 📜 License
 
-MIT © Anurag Mishra
-
-```
-
----
-
-Would you like this file added and committed automatically? Or you want to review and edit it manually first?
-```
+Anurag Mishra
